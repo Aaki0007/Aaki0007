@@ -7,7 +7,6 @@ I work with **Python, SQL, data analytics, machine learning, and NLP** to turn c
 - 📍 Based in Germany
 - 🎓 M.Sc. Big Data & Artificial Intelligence — SRH University of Applied Sciences (2026)
 - 💬 English (C2) · German (B2)
-- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/aakashvashist/)
 
 ## Selected projects
 
