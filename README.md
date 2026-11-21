@@ -13,7 +13,6 @@ I work with **Python, SQL, data analytics, machine learning, and NLP** to turn c
 | Project | What I worked on | Tools |
 |---|---|---|
 | 📊 [Global Life Expectancy Analytics Dashboard](https://github.com/Aaki0007/Aakash-Life-Expectancy) | Explored WHO health and socioeconomic data for 190+ countries; built interactive views and composite KPIs. | Python, Pandas, Streamlit, Plotly |
-| 🧠 [OSINT Labour Market Intelligence](https://github.com/Aaki0007/job-classification) | Cleaned ~124K job postings to ~36K usable records; used sentence embeddings, community detection, and zero-shot LLM classification to analyze entry barriers. | Python, NLP, Scikit-learn, Mistral Nemo |
 | 👁️ [Real-Time Driver Drowsiness Detection](https://github.com/Aaki0007/Drowsiness-Detection) | Evaluated CNN, MobileNetV2, SVM, and Random Forest approaches for face/eye-based drowsiness detection. | TensorFlow, PyTorch, OpenCV |
 | 🗣️ [Dialect-Aware Hate Speech Detection](https://github.com/Aaki0007/dialect-aware-hate-speech-detection) | Master's thesis research comparing LLM prompting strategies and a fine-tuned classifier, with attention to dialect-related evaluation differences. | NLP, LLM evaluation, Python |
 
